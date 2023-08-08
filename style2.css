@@ -1,0 +1,21 @@
+nav div ul li {
+    margin-left: 8vw;
+    font-size: larger;
+}
+.container p{
+    margin-top: 4vh;}
+.footer{
+    display: inline-block;
+    width: 40vw;
+}
+footer div ul li a{
+    text-decoration: none;
+    color: black;
+    margin: 3vh;
+}
+footer nav{
+    display: inline-block;
+}
+footer nav ul li {
+    display: inline-block;
+}
